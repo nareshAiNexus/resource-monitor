@@ -1,0 +1,9 @@
+Package: yourpackagename
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3
+Maintainer: Your Name <youremail@example.com>
+Description: A short description of what your Python script does.
+ Long description here...

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=System Widget
+Exec=python3 app.py
+Type=Application
+Categories=Utility;
+StartupNotify=true
